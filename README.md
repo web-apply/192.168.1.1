@@ -7,3 +7,6 @@ Now what is the router, for example, you have two different networks. someone an
 Login to the new router 192.168.1.1 admin If the router is new, there is nothing easier than finding the login and password. We take the device and turn it over again and see this sticker. It specifies a small font, input data, default input and password, in addition to the IP address we are looking for. In most cases this is admin - admin.
 
 <a href="https://github.com/web-apply/192.168.l.l">192.168.l.l</a> or 192.168.1.1 or 192.168.l.1 or 192.168.o.1.1
+
+
+[Foo](url){data-x=1}
