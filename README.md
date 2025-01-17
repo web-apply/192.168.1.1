@@ -9,4 +9,5 @@ Login to the new router 192.168.1.1 admin If the router is new, there is nothing
 <a href="https://github.com/web-apply/192.168.l.l">192.168.l.l</a> or 192.168.1.1 or 192.168.l.1 or 192.168.o.1.1
 
 
-[Foo](url){data-x=1}
+[Foo](url{data-x=1} )
+ftp://foo.bar.baz
